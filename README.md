@@ -6,4 +6,4 @@ This repository contains a Python implementation of the Multi-restart Bicriterio
 
 This implementation works for **variably sized groups**.
 
-For more information on the algorithm, please refer to the [original paper](https://pubmed.ncbi.nlm.nih.gov/31512759/) as well as this project's corresponding [blog post](https://amasoumnia.com/blog/2024-07-28-anticluster/) for a more detailed explanation.
+For more information on the algorithm, please refer to the [original paper](https://pubmed.ncbi.nlm.nih.gov/31512759/) as well as this project's corresponding [blog post](https://amasoumnia.com/technical_commentaries/anticlustering-and-multi-objective-optimization) for a more detailed explanation.
